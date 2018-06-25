@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Location Finder</string>
+    <string name="title_activity_maps">Location Finder</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="str_btn_draw">Draw Route</string>
+    <string name="title_activity_help_page">HelpPage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_location_info">LocationInfo</string>
+    <string name="title_activity_directions_page">DirectionsPage</string>
+
+    <string name="app_about">Welcome to the UEA Room Finder! This page will give you a quick rundown
+        on how to use this app to find a specific room at UEA. Simply follow the steps below:
+    </string>
+    <string name="tagging"><u>SEARCHING FOR A ROOM</u></string>
+    <string name="tagging_info">To tell the app which room youd like directions to, begin typing
+        the name of the room (for example, James Platt Language Centre) and a suggestion will pop
+        up. Tap the correct suggestion and press the "SEARCH" button. This will save the selected
+        location as your destination.</string>
+    <string name="finding"><u>MAKING YOUR WAY TO THE ROOM</u></string>
+    <string name="finding_info">To get directions to the building, tap the first button
+        . The route to the selected room will now be displayed as a line on the
+        map. If you wish to change the directions from the view of a map to a list of text
+        instructions, tap the second button. To view information about the room you searched
+        tap the third button.
+    </string>
+    <string name="notification_info">NOTE: If you have the app running while making your way to the room,
+        the app will give you a notification when you are near your destination!</string>
+
+</resources>
